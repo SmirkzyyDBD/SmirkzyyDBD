@@ -3,9 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smirkzyydbd&label=Profile%20views&color=0e75b6&style=flat" alt="smirkzyydbd" /> </p>
 
-- 🔭 I’m currently working on **too many things**
+- 🔭 I’m currently working on **an update to the 4.4.2 launcher and installer, pak bypass**
 
-- 🌱 I’m currently learning **Python, C#, HTML, CSS**
+- 📝 I’m currently using **Python, Batch file**
+
+- 🌱 I'm currently learning **C#, C++, HTML, CSS**
 
 - 👨‍💻 All of my projects are available [here](https://github.com/SmirkzyyDBD?tab=repositories)
 
