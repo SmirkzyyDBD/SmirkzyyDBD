@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **an update to the 4.4.2 launcher and installer, pak bypass**
 
-- 📝 I’m currently using **Python, Batch file**
+- 📝 I’m currently using **Python, C++, Batch file**
 
 - 🌱 I'm currently learning **C#, C++, HTML, CSS**
 
