@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **an update to the 4.4.2 launcher and installer, Private Server Launcher**
 
-- 📝 I’m currently using **Python, C++, Batch file**
+- 📝 I’m currently using **Python, C#**
 
-- 🌱 I'm currently learning **C#, C++, HTML, CSS**
+- 🌱 I'm currently learning **C#, C++, HTML, CSS, JS**
 
 - 👨‍💻 All of my projects are available [here](https://github.com/SmirkzyyDBD?tab=repositories)
 
