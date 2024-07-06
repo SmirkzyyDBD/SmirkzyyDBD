@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smirkzyydbd&label=Profile%20views&color=0e75b6&style=flat" alt="smirkzyydbd" /> </p>
 
-- 🔭 I’m currently working on **an update to the 4.4.2 launcher and installer, pak bypass**
+- 🔭 I’m currently working on **an update to the 4.4.2 launcher and installer, Private Server Launcher**
 
 - 📝 I’m currently using **Python, C++, Batch file**
 
