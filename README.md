@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available [here](https://github.com/SmirkzyyDBD?tab=repositories)
 
-- 📫 How to reach me **smirkzyy@gmail.com**
+- 📫 How to reach me (Discord @) **smirkzyy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
