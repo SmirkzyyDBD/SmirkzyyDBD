@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Smirkzyy</h1>
-<h3 align="center">20, I make simple things</h3>
+<h3 align="center">20, Junior Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smirkzyydbd&label=Profile%20views&color=0e75b6&style=flat" alt="smirkzyydbd" /> </p>
 
-- 🔭 I’m currently working on **Private Server Launcher, Pixel Gun 3D PC Edition External Cheat**
-
-- 📝 I’m currently using **Python, C#**
+- 🔭 I’m currently working on **DbD Private Server and Launcher**
+t
+- 📝 I’m currently using **Python, C#, PHP**
 
 - 🌱 I'm currently learning **C++, JS**
 
