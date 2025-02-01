@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **DbD Private Server and Launcher**
 
-- 📝 I’m currently using **Next.js, Electron.js, PHP, C++**
+- 📝 I’m currently using **Next.js, Electron.js, PHP, C#**
 
 - 👨‍💻 All of my projects are available [here](https://github.com/SmirkzyyDBD?tab=repositories)
 
