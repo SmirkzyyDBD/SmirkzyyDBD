@@ -1,21 +1,31 @@
-<h1 align="center">Hi 👋, I'm Smirkzyy</h1>
-<h3 align="center">21, Junior Full Stack Developer</h3>
+# 💫 About Me:
+🔭 I’m currently working on BHVR.GAY 
+⚡ Looking for Full Time Job
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=smirkzyydbd&label=Profile%20views&color=0e75b6&style=flat" alt="smirkzyydbd" /> </p>
 
-- 🔭 I’m currently working on **DbD Private Server and Launcher**
+## 🌐 Socials:
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/smirkzyy)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:smirkzyy@gmail.com)
 
-- 📝 I’m currently using **Next.js, Electron.js, PHP, C#**
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)  
+![C#](https://img.shields.io/badge/csharp-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)  
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)  
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)  
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)  
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)  
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-- 👨‍💻 All of my projects are available [here](https://github.com/SmirkzyyDBD?tab=repositories)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SmirkzyyDBD&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=SmirkzyyDBD&theme=github_dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SmirkzyyDBD&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-- 📫 How to reach me (Discord @) **smirkzyy**
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.youtube.com/@smirkzyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="smirkzyy" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/9ZhksXDJrv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/9ZhksXDJrv" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
+[![](https://visitcount.itsvg.in/api?id=SmirkzyyDBD&icon=0&color=0)](https://visitcount.itsvg.in)
