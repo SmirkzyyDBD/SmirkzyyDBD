@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on BHVR.GAY 
 
-⚡ Looking for Full Time Job
+⚡ Full Time Software Engineer
 
 
 ## 🌐 Socials:
