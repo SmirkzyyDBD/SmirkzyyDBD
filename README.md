@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ![https://cdn.eefernal.cc](Eefernal Fog Private Server) Launcher 
+🔭 I’m currently working on [https://cdn.eefernal.cc](Eefernal Fog Private Server Launcher)
 
 ⚡ Full Time Software Engineer
 
