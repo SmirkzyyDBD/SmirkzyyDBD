@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on [Eefernal Private Server](https://cdn.eefernal.cc) Launcher!
+🔭 I’m currently working on [smrk.lol biolink and media hosting](https://smrk.lol)!
 
 ⚡ Full Time Software Engineer
 
